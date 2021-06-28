@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPill</string>
+    <string name="facebook_app_id">561814565205742</string>
+    <string name="fb_login_protocol_scheme">fb561814565205742</string>
+</resources>

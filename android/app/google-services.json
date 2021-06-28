@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359622165435",
+    "project_id": "mypill-cb3da",
+    "storage_bucket": "mypill-cb3da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359622165435:android:3c73a55c37d60a359cfa9e",
+        "android_client_info": {
+          "package_name": "com.example.mypill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359622165435-fp2fdji2gft3s8nff2asc218j8ae9bu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypill",
+            "certificate_hash": "f01be32c14c42b995e8a7374a47e7032a48fc22b"
+          }
+        },
+        {
+          "client_id": "359622165435-p2h7ephsjl495t096mc6afn64j1vt21u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8CDGuZvIXSPlCXbHRu16Q9VKyZn43L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359622165435-p2h7ephsjl495t096mc6afn64j1vt21u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
